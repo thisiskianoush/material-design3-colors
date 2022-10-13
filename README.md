@@ -51,4 +51,5 @@ body {
     background-color: $md3-color-sys-dark-background;
 }
 ```
-All colors are copied from **[Material Design3 Figma Kit]** and i just turn them into css and scss variables, so that you be able to use them in your web codes.
+&nbsp;
+*All colors are copied from **[Material Design3 Figma Kit]** and i just turn them into css and scss variables, so that you be able to use them in your web codes.*
