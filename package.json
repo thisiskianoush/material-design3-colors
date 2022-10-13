@@ -1,0 +1,32 @@
+{
+  "name": "material-design3-colors",
+  "version": "1.0.0",
+  "description": "All Material Design v3 Colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisiskianoush/material-design3-colors.git"
+  },
+  "keywords": [
+    "material",
+    "material",
+    "design",
+    "mui3",
+    "md3",
+    "colors",
+    "md3",
+    "colors",
+    "material",
+    "design3",
+    "colors"
+  ],
+  "author": "Kianoush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisiskianoush/material-design3-colors/issues"
+  },
+  "homepage": "https://github.com/thisiskianoush/material-design3-colors#readme"
+}
